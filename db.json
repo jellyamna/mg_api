@@ -4,11 +4,14 @@
       "totalaccountmtf": "202.000",
       "progresstotalaccountmtf":"10.000",
       "persenaccountmtf": 70,
-      "progressaccountcanalis": 300,
-      "progressaccountcanalis":10,
-      "woaccounttotal":70,
-      "woaccountprogress":30,
-      "aktifaccounttotal":40,
-      "aktifaccountprogress":20
+      "progressaccountcanalis": "300",
+      "persenaccountcanalis": 30,
+      "persenaccountcanalispart1": 75,
+      "persenaccountcanalispart2": 60,
+      "persenaccountcanalispart3": 85,
+      "progressaccountcanalispart1": "10.000",
+      "progressaccountcanalispart2": "40.000",
+      "progressaccountcanalispart3": "200.000"
+     
     }
 }
