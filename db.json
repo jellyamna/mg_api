@@ -9,10 +9,12 @@
       "nonrestru_canalis_static_customer" :"12.000",
       "nonrestru_canalis_static_asset" : "13.000",
       "nonrestru_canalis_persen" : 10,
-      "nonrestru_workflow_customer" :"12.000",
-      "nonrestru_workflow_customer_persen" : 10,
-      "nonrestru_workflow_asset" :"14.000",
-      "nonrestru_workflow_asset_persen" : 30
+      "nonrestru_workflow_customer":"400.000",
+      "nonrestru_workflow_customer_migrate" :"12.000",
+      "nonrestru_workflow_customer_migrate_persen" : 10,
+      "nonrestru_workflow_asset":"300.000",
+      "nonrestru_workflow_asset_migrate" :"14.000",
+      "nonrestru_workflow_asset_migrate_persen" : 30
      
     }
 }
