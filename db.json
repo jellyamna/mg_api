@@ -48,18 +48,18 @@
 
 
     "restru_workflow_customer_start_date": "11 Maret 2023 06:31:18",
-    "restru_workflow_customer_end_date": "",
+    "restru_workflow_customer_end_date": "11 Maret 2023 06:47:00",
     "restru_workflow_customer": "20.187",
-    "restru_workflow_customer_migrate": "11.288",
-    "restru_workflow_customer_migrate_persen": 95,
-    "restru_workflow_customer_status_job" :"On Progress",
+    "restru_workflow_customer_migrate": "20:187",
+    "restru_workflow_customer_migrate_persen": 100,
+    "restru_workflow_customer_status_job" :"Done",
 
      "restru_workflow_asset_start_date": "11 Maret 2023 06:31:18",
-    "restru_workflow_asset_end_date": "",
+    "restru_workflow_asset_end_date": "11 Maret 2023 06:47:00",
     "restru_workflow_asset": "20.462",
-    "restru_workflow_asset_migrate": "20.000",
-    "restru_workflow_asset_migrate_persen": 99,
-    "restru_workflow_asset_status_job" : "On Progress",
+    "restru_workflow_asset_migrate": "20.462",
+    "restru_workflow_asset_migrate_persen": 100,
+    "restru_workflow_asset_status_job" : "Done",
 
     "restru_workflow_account_start_date": "",
     "restru_workflow_account_end_date": "",
