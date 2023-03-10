@@ -12,13 +12,13 @@
     "nonrestru_canalis_persen": 100,
 
     "nonrestru_workflow_customer": "163.245",
-    "nonrestru_workflow_customer_migrate": "216",
-    "nonrestru_workflow_customer_migrate_persen": 1,
+    "nonrestru_workflow_customer_migrate": "22.293",
+    "nonrestru_workflow_customer_migrate_persen": 14,
     "nonrestru_workflow_customer_status_job" : "On Progress",
 
     "nonrestru_workflow_asset": "164.797",
-    "nonrestru_workflow_asset_migrate": "20.000",
-    "nonrestru_workflow_asset_migrate_persen": 12,
+    "nonrestru_workflow_asset_migrate": "40.000",
+    "nonrestru_workflow_asset_migrate_persen": 24,
     "nonrestru_workflow_asset_status_job" : "On Progress",
 
     "nonrestru_workflow_account": "164.797",
