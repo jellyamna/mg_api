@@ -1,15 +1,15 @@
 {
   "account": {
-    "date": "10 Maret 2023 - 21:48",
-    "nonrestru_muf_static_account": "156.881",
+    "date": "10 Maret 2023 - 21:53",
+    "nonrestru_muf_static_account": "134.797",
     "nonrestru_muf_static_customer": "133.396",
-    "nonrestru_muf_static_asset": "156.881",
-    "nonrestru_muf_persen": 91,
+    "nonrestru_muf_static_asset": "134.797",
+    "nonrestru_muf_persen": 82,
     "nonrestru_muf_status_job" : "On Progress", 
-    "nonrestru_canalis_static_account": "7.916",
+    "nonrestru_canalis_static_account": "30.000",
     "nonrestru_canalis_static_customer": "29.849",
-    "nonrestru_canalis_static_asset": "7.916",
-    "nonrestru_canalis_persen": 9,
+    "nonrestru_canalis_static_asset": "30.000",
+    "nonrestru_canalis_persen": 18,
 
     "nonrestru_workflow_customer": "163.245",
     "nonrestru_workflow_customer_migrate": "0",
