@@ -30,8 +30,8 @@
     "nonrestru_workflow_account_start_date": "11 Maret 2023 1:44:47",
     "nonrestru_workflow_account_end_date": "", 
     "nonrestru_workflow_account": "164.797",
-    "nonrestru_workflow_account_migrate": "80.000",
-    "nonrestru_workflow_account_migrate_persen": 49,
+    "nonrestru_workflow_account_migrate": "100.000",
+    "nonrestru_workflow_account_migrate_persen": 61,
     "nonrestru_workflow_account_status_job" : "On Progress",
 
     "restru_etl_start_date": "",
