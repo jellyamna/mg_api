@@ -27,12 +27,12 @@
     "nonrestru_workflow_asset_migrate_persen": 100,
     "nonrestru_workflow_asset_status_job" : "Done",
 
-    "nonrestru_workflow_account_start_date": "11 Maret 2023 1:44:47",
-    "nonrestru_workflow_account_end_date": "", 
+    "nonrestru_workflow_account_start_date": "11 Maret 2023 01:44:47",
+    "nonrestru_workflow_account_end_date": "11 Maret 2023 06:19:00", 
     "nonrestru_workflow_account": "164.797",
-    "nonrestru_workflow_account_migrate": "160.000",
-    "nonrestru_workflow_account_migrate_persen": 97,
-    "nonrestru_workflow_account_status_job" : "On Progress",
+    "nonrestru_workflow_account_migrate": "164.797",
+    "nonrestru_workflow_account_migrate_persen": 100,
+    "nonrestru_workflow_account_status_job" : "Done",
 
     "restru_etl_start_date": "",
     "restru_etl_end_date": "",
