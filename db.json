@@ -1,6 +1,6 @@
 {
   "account": {
-    "date": "10 Maret 2023 - 23:47",
+    "date": "10 Maret 2023 - 00:10",
     "nonrestru_muf_static_account": "0",
     "nonrestru_muf_static_customer": "0",
     "nonrestru_muf_static_asset": "0",
@@ -12,14 +12,14 @@
     "nonrestru_canalis_persen": 100,
 
     "nonrestru_workflow_customer": "163.245",
-    "nonrestru_workflow_customer_migrate": "120.000",
-    "nonrestru_workflow_customer_migrate_persen": 74,
-    "nonrestru_workflow_customer_status_job" : "On Progress",
+    "nonrestru_workflow_customer_migrate": "163.245",
+    "nonrestru_workflow_customer_migrate_persen": 100,
+    "nonrestru_workflow_customer_status_job" : "Done",
 
     "nonrestru_workflow_asset": "164.797",
-    "nonrestru_workflow_asset_migrate": "120.000",
-    "nonrestru_workflow_asset_migrate_persen": 73,
-    "nonrestru_workflow_asset_status_job" : "On Progress",
+    "nonrestru_workflow_asset_migrate": "164.797",
+    "nonrestru_workflow_asset_migrate_persen": 100,
+    "nonrestru_workflow_asset_status_job" : "Done",
 
     "nonrestru_workflow_account": "164.797",
     "nonrestru_workflow_account_migrate": "0",
