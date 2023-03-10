@@ -1,6 +1,6 @@
 {
   "account": {
-    "date": "11 Maret 2023 - 06:50",
+    "date": "11 Maret 2023 - 06:53",
     "nonrestru_etl_start_date": "10 Maret 2023 21:38:02",
     "nonrestru_etl_end_date": "10 Maret 2023 22:30:44",
     "nonrestru_muf_static_account": "0",
@@ -34,8 +34,8 @@
     "nonrestru_workflow_account_migrate_persen": 100,
     "nonrestru_workflow_account_status_job" : "Done",
 
-    "restru_etl_start_date": "11 Maret 2023 06:20:00",
-    "restru_etl_end_date": "11 Maret 2023 06:30:00",
+    "restru_etl_start_date": "11 Maret 2023 06:23:00",
+    "restru_etl_end_date": "11 Maret 2023 06:38:00",
     "restru_muf_static_account": "20.462",
     "restru_muf_static_customer": "20.187",
     "restru_muf_static_asset": "20.462",
@@ -48,25 +48,25 @@
 
 
     "restru_workflow_customer_start_date": "11 Maret 2023 06:31:18",
-    "restru_workflow_customer_end_date": "11 Maret 2023 06:47:00",
+    "restru_workflow_customer_end_date": "11 Maret 2023 06:44:00",
     "restru_workflow_customer": "20.187",
     "restru_workflow_customer_migrate": "20:187",
     "restru_workflow_customer_migrate_persen": 100,
     "restru_workflow_customer_status_job" :"Done",
 
      "restru_workflow_asset_start_date": "11 Maret 2023 06:31:18",
-    "restru_workflow_asset_end_date": "11 Maret 2023 06:47:00",
+    "restru_workflow_asset_end_date": "11 Maret 2023 06:44:00",
     "restru_workflow_asset": "20.462",
     "restru_workflow_asset_migrate": "20.462",
     "restru_workflow_asset_migrate_persen": 100,
     "restru_workflow_asset_status_job" : "Done",
 
-    "restru_workflow_account_start_date": "",
+    "restru_workflow_account_start_date": "11 Maret 2023 06:45:00",
     "restru_workflow_account_end_date": "",
     "restru_workflow_account": "20.462",
-    "restru_workflow_account_migrate": "0",
-    "restru_workflow_account_migrate_persen": 0,
-    "restru_workflow_account_status_job" : "Not Started",
+    "restru_workflow_account_migrate": "13.053",
+    "restru_workflow_account_migrate_persen": 93,
+    "restru_workflow_account_status_job" : "On Progress",
 
     "audit_query_persen_start_date" :"",
     "audit_query_persen_end_date" :"",
