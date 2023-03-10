@@ -1,6 +1,6 @@
 {
   "account": {
-    "date": "11 Maret 2023 - 06:19",
+    "date": "11 Maret 2023 - 06:29",
     "nonrestru_etl_start_date": "10 Maret 2023 21:38:02",
     "nonrestru_etl_end_date": "10 Maret 2023 22:30:44",
     "nonrestru_muf_static_account": "0",
@@ -34,17 +34,17 @@
     "nonrestru_workflow_account_migrate_persen": 100,
     "nonrestru_workflow_account_status_job" : "Done",
 
-    "restru_etl_start_date": "",
-    "restru_etl_end_date": "",
+    "restru_etl_start_date": "11 Maret 2023 06:20:00",
+    "restru_etl_end_date": "11 Maret 2023 06:30:00",
     "restru_muf_static_account": "20.462",
     "restru_muf_static_customer": "20.187",
     "restru_muf_static_asset": "20.462",
-    "restru_muf_persen": 100,
-    "restru_muf_status_job" : "Not Started", 
-    "restru_canalis_static_account": "0",
-    "restru_canalis_static_customer": "0",
-    "restru_canalis_static_asset": "0",
-    "restru_canalis_persen": 0,
+    "restru_muf_persen": 0,
+    "restru_muf_status_job" : "Done", 
+    "restru_canalis_static_account": "20.462",
+    "restru_canalis_static_customer": "20.187",
+    "restru_canalis_static_asset": "20.462",
+    "restru_canalis_persen": 100,
 
 
     "restru_workflow_customer_start_date": "",
