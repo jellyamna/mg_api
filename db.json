@@ -1,6 +1,6 @@
 {
   "account": {
-    "date": "11 Maret 2023 - 09:46",
+    "date": "11 Maret 2023 - 09:51",
     "nonrestru_etl_start_date": "10 Maret 2023 21:38:02",
     "nonrestru_etl_end_date": "10 Maret 2023 22:30:44",
     "nonrestru_muf_static_account": "0",
@@ -68,9 +68,9 @@
     "restru_workflow_account_migrate_persen": 100,
     "restru_workflow_account_status_job" : "Done",
 
-    "audit_query_persen_start_date" :"11 Maret 2023 09:46:00",
+    "audit_query_persen_start_date" :"11 Maret 2023 09:51:00",
     "audit_query_persen_end_date" :"",
-    "audit_query_persen" :1,
+    "audit_query_persen" :83,
     "audit_query_persen_status_job" : "On Progress",
     "audit": [
     ],
