@@ -1,6 +1,6 @@
 {
   "account": {
-    "date": "11 Maret 2023 - 20:27",
+    "date": "11 Maret 2023 - 20:31",
     "nonrestru_etl_start_date": "10 Maret 2023 21:38:02",
     "nonrestru_etl_end_date": "10 Maret 2023 22:30:44",
     "nonrestru_muf_static_account": "0",
@@ -75,9 +75,9 @@
     "audit": [
     ],
     
-     "rekon_query_persen_start_date":"11 Maret 2023 20:28:00",
+     "rekon_query_persen_start_date":"11 Maret 2023 20:31:00",
     "rekon_query_persen_end_date":"",
-    "rekon_query_persen": 22,
+    "rekon_query_persen": 38,
     "rekon_query_persen_status_job": "On Progress",
     "rekon": [
       
