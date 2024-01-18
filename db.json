@@ -15,8 +15,8 @@
 
     "nonrestru_workflow_customer_start_date": "",
     "nonrestru_workflow_customer_end_date": "",
-    "nonrestru_workflow_customer": "0",
-    "nonrestru_workflow_customer_migrate": "0",
+    "nonrestru_workflow_customer": "100",
+    "nonrestru_workflow_customer_migrate": "20",
     "nonrestru_workflow_customer_migrate_persen": 0,
     "nonrestru_workflow_customer_status_job" : "Not Started",
 
