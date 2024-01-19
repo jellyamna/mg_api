@@ -1,6 +1,6 @@
 {
   "account": {
-    "date": "19 Januari 2024 - 14:03",
+    "date": "19 Januari 2024 - 14:35",
     "nonrestru_etl_start_date": "19 Januari 2024 - 10:35",
     "nonrestru_etl_end_date": "19 Januari 2024 - 11:51",
     "nonrestru_muf_static_account": "0",
@@ -30,8 +30,8 @@
     "nonrestru_workflow_account_start_date": "19 Januari 2024 - 13:48",
     "nonrestru_workflow_account_end_date": "", 
     "nonrestru_workflow_account": "193572",
-    "nonrestru_workflow_account_migrate": "10000",
-    "nonrestru_workflow_account_migrate_persen": 5,
+    "nonrestru_workflow_account_migrate": "40000",
+    "nonrestru_workflow_account_migrate_persen": 21,
     "nonrestru_workflow_account_status_job" : "On Progress",
 
     "audit_query_persen_start_date" :"",
