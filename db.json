@@ -1,6 +1,6 @@
 {
   "account": {
-    "date": "19 Januari 2024 - 20:37",
+    "date": "19 Januari 2024 - 21:23",
     "nonrestru_etl_start_date": "19 Januari 2024 - 10:35",
     "nonrestru_etl_end_date": "19 Januari 2024 - 11:51",
     "nonrestru_muf_static_account": "0",
@@ -35,16 +35,16 @@
     "nonrestru_workflow_account_status_job" : "Done",
 
     "audit_query_persen_start_date" :"19 Januari 2024 - 20:37",
-    "audit_query_persen_end_date" :"",
-    "audit_query_persen" :0,
-    "audit_query_persen_status_job" : "On Progress",
+    "audit_query_persen_end_date" :"19 Januari 2024 - 21:12",
+    "audit_query_persen" : 100,
+    "audit_query_persen_status_job" : "Done",
     "audit": [
     ],
     
-     "rekon_query_persen_start_date":"",
+     "rekon_query_persen_start_date":"19 Januari 2024 - 21:12",
     "rekon_query_persen_end_date":"",
     "rekon_query_persen": 0,
-    "rekon_query_persen_status_job": "Not Started",
+    "rekon_query_persen_status_job": "On Progress",
     "rekon": [
       
     ]
