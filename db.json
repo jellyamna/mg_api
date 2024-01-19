@@ -1,6 +1,6 @@
 {
   "account": {
-    "date": "19 Januari 2024 - 12:30",
+    "date": "19 Januari 2024 - 12:40",
     "nonrestru_etl_start_date": "19 Januari 2024 - 10:35",
     "nonrestru_etl_end_date": "19 Januari 2024 - 11:51",
     "nonrestru_muf_static_account": "0",
@@ -16,15 +16,15 @@
     "nonrestru_workflow_customer_start_date": "19 Januari 2024 - 11:51",
     "nonrestru_workflow_customer_end_date": "",
     "nonrestru_workflow_customer": "193572",
-    "nonrestru_workflow_customer_migrate": "80000",
-    "nonrestru_workflow_customer_migrate_persen": 41,
+    "nonrestru_workflow_customer_migrate": "100000",
+    "nonrestru_workflow_customer_migrate_persen": 52,
     "nonrestru_workflow_customer_status_job" : "On Progress",
 
     "nonrestru_workflow_asset_start_date": "19 Januari 2024 - 11:51",
     "nonrestru_workflow_asset_end_date": "",
     "nonrestru_workflow_asset": "193572",
-    "nonrestru_workflow_asset_migrate": "80000",
-    "nonrestru_workflow_asset_migrate_persen": 41,
+    "nonrestru_workflow_asset_migrate": "100000",
+    "nonrestru_workflow_asset_migrate_persen": 52,
     "nonrestru_workflow_asset_status_job" : "On Progress",
 
     "nonrestru_workflow_account_start_date": "",
