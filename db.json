@@ -1,12 +1,12 @@
 {
   "account": {
-    "date": "18 Februari 2024 - 20:00",
-    "nonrestru_etl_start_date": "",
+    "date": "19 Februari 2024 - 08:30",
+    "nonrestru_etl_start_date": "19 Februari 2024",
     "nonrestru_etl_end_date": "",
-    "nonrestru_muf_static_account": "0",
-    "nonrestru_muf_static_customer": "0",
-    "nonrestru_muf_static_asset": "0",
-    "nonrestru_muf_persen": 0,
+    "nonrestru_muf_static_account": "193572",
+    "nonrestru_muf_static_customer": "193572",
+    "nonrestru_muf_static_asset": "193572",
+    "nonrestru_muf_persen": 100,
     "nonrestru_muf_status_job" : "Not Started", 
     "nonrestru_canalis_static_account": "0",
     "nonrestru_canalis_static_customer": "0",
