@@ -15,15 +15,15 @@
 
     "nonrestru_workflow_customer_start_date": "",
     "nonrestru_workflow_customer_end_date": "",
-    "nonrestru_workflow_customer": "0",
-    "nonrestru_workflow_customer_migrate": "193572",
+    "nonrestru_workflow_customer": "193572",
+    "nonrestru_workflow_customer_migrate": "0",
     "nonrestru_workflow_customer_migrate_persen": 0,
     "nonrestru_workflow_customer_status_job" : "Not Started",
 
     "nonrestru_workflow_asset_start_date": "",
     "nonrestru_workflow_asset_end_date": "0",
-    "nonrestru_workflow_asset": "0",
-    "nonrestru_workflow_asset_migrate": "193572",
+    "nonrestru_workflow_asset": "193572",
+    "nonrestru_workflow_asset_migrate": "0",
     "nonrestru_workflow_asset_migrate_persen": 0,
     "nonrestru_workflow_asset_status_job" : "Not Started",
 
