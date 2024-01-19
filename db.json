@@ -15,14 +15,14 @@
 
     "nonrestru_workflow_customer_start_date": "19 Januari 2024",
     "nonrestru_workflow_customer_end_date": "",
-    "nonrestru_workflow_customer": "163572",
+    "nonrestru_workflow_customer": "193572",
     "nonrestru_workflow_customer_migrate": "30000",
     "nonrestru_workflow_customer_migrate_persen": 15,
     "nonrestru_workflow_customer_status_job" : "On Progress",
 
     "nonrestru_workflow_asset_start_date": "19 Januari 2024",
     "nonrestru_workflow_asset_end_date": "",
-    "nonrestru_workflow_asset": "163572",
+    "nonrestru_workflow_asset": "193572",
     "nonrestru_workflow_asset_migrate": "30000",
     "nonrestru_workflow_asset_migrate_persen": 15,
     "nonrestru_workflow_asset_status_job" : "On Progress",
